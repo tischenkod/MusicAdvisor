@@ -1,0 +1,671 @@
+{
+  "playlists" : {
+    "href" : "https://api.spotify.com/v1/browse/categories/chill/playlists?offset=0&limit=20",
+    "items" : [ {
+      "collaborative" : false,
+      "description" : "Kick back to the best new and recent chill tunes.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX4WYpdgoIcn6"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX4WYpdgoIcn6",
+      "id" : "37i9dQZF1DX4WYpdgoIcn6",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003cf8e264c6a92e245402ecb7a",
+        "width" : null
+      } ],
+      "name" : "Chill Hits",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNTA5MjE4MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX4WYpdgoIcn6/tracks",
+        "total" : 130
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX4WYpdgoIcn6"
+    }, {
+      "collaborative" : false,
+      "description" : "Just lean back and enjoy relaxed beats.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWTvNyxOwkztu"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWTvNyxOwkztu",
+      "id" : "37i9dQZF1DWTvNyxOwkztu",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003d6b79e5fcec64b502dd292b9",
+        "width" : null
+      } ],
+      "name" : "Chillout Lounge",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNTA5MjE5MiwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWTvNyxOwkztu/tracks",
+        "total" : 80
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWTvNyxOwkztu"
+    }, {
+      "collaborative" : false,
+      "description" : "Just chill...",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX889U0CL85jj"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX889U0CL85jj",
+      "id" : "37i9dQZF1DX889U0CL85jj",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f0000000321aab90a9c6d10ccca8d6c78",
+        "width" : null
+      } ],
+      "name" : "Chill Vibes",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDM0OTAwOCwwMDAwMDE2MDAwMDAwMTc1OGFhNzFiNzMwMDAwMDE3MTA5YzRjYzQx",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX889U0CL85jj/tracks",
+        "total" : 201
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX889U0CL85jj"
+    }, {
+      "collaborative" : false,
+      "description" : "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX6VdMW310YC7"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX6VdMW310YC7",
+      "id" : "37i9dQZF1DX6VdMW310YC7",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003e90bb6612cfbd77d87343ac2",
+        "width" : null
+      } ],
+      "name" : "Chill Tracks",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNTA5MjE4MCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX6VdMW310YC7/tracks",
+        "total" : 282
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX6VdMW310YC7"
+    }, {
+      "collaborative" : false,
+      "description" : "Beats to relax, study and focus.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWWQRwui0ExPn",
+      "id" : "37i9dQZF1DWWQRwui0ExPn",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003c414e7daf34690c9f983f76e",
+        "width" : null
+      } ],
+      "name" : "Lo-Fi Beats",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNTA5MjE2OSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWWQRwui0ExPn/tracks",
+        "total" : 450
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWWQRwui0ExPn"
+    }, {
+      "collaborative" : false,
+      "description" : "Soft house music for your laidback moments.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX82pCGH5USnM"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX82pCGH5USnM",
+      "id" : "37i9dQZF1DX82pCGH5USnM",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f0000000347717f4647be055f22633d6f",
+        "width" : null
+      } ],
+      "name" : "Lounge - Soft House",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNTAwOTAxNiwwMDAwMDBjODAwMDAwMTc1YjFmZTA2NjMwMDAwMDE2ZDE1MzFhYTg1",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX82pCGH5USnM/tracks",
+        "total" : 109
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX82pCGH5USnM"
+    }, {
+      "collaborative" : false,
+      "description" : "Chill instrumental beats. Cover / Artwork: Saltyyyy V",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX0SM0LYsmbMT"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX0SM0LYsmbMT",
+      "id" : "37i9dQZF1DX0SM0LYsmbMT",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003233f836d784994dd94589bfe",
+        "width" : null
+      } ],
+      "name" : "Jazz Vibes",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNTA5MjIyMiwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX0SM0LYsmbMT/tracks",
+        "total" : 300
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX0SM0LYsmbMT"
+    }, {
+      "collaborative" : false,
+      "description" : "Calm your mind with gentle piano and ambient.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWXe9gFZP0gtP"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWXe9gFZP0gtP",
+      "id" : "37i9dQZF1DWXe9gFZP0gtP",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003ec9d60059aa215a7ba364695",
+        "width" : null
+      } ],
+      "name" : "Stress Relief",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwMzczNDE1MywwMDAwMDA1MTAwMDAwMTc1NjYwMTI3Y2MwMDAwMDE2ZTgzM2QwYzg5",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWXe9gFZP0gtP/tracks",
+        "total" : 160
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWXe9gFZP0gtP"
+    }, {
+      "collaborative" : false,
+      "description" : "Psychedelic beat science.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWVXbA4kjkg6G"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWVXbA4kjkg6G",
+      "id" : "37i9dQZF1DWVXbA4kjkg6G",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f000000036febbf7da96f977230c7c840",
+        "width" : null
+      } ],
+      "name" : "Trip Hop",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNTA5MjE5NSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWVXbA4kjkg6G/tracks",
+        "total" : 80
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWVXbA4kjkg6G"
+    }, {
+      "collaborative" : false,
+      "description" : "Mellow jazz to stay focused or unwind.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX2vYju3i0lNX"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX2vYju3i0lNX",
+      "id" : "37i9dQZF1DX2vYju3i0lNX",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003bf586e7899a59fe5988c48b4",
+        "width" : null
+      } ],
+      "name" : "Chilled Jazz",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDk5NjM3MCwwMDAwMDA2MzAwMDAwMTc1YjEzZDEwNjUwMDAwMDE3MGM0OTZhZTBk",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX2vYju3i0lNX/tracks",
+        "total" : 142
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX2vYju3i0lNX"
+    }, {
+      "collaborative" : false,
+      "description" : "Soft jazz for all your activities.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWV7EzJMK2FUI"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWV7EzJMK2FUI",
+      "id" : "37i9dQZF1DWV7EzJMK2FUI",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003c7059110f5a17c6a5c353e2a",
+        "width" : null
+      } ],
+      "name" : "Jazz in the Background",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDk5NTI4MCwwMDAwMDAxMjAwMDAwMTc1YjEyYzZkOGIwMDAwMDE3MjdmMTFhYzhj",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWV7EzJMK2FUI/tracks",
+        "total" : 98
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWV7EzJMK2FUI"
+    }, {
+      "collaborative" : false,
+      "description" : "Contemplate the universe in a bottle of friendly colored magma.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWWtqHeytOZ8f"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWWtqHeytOZ8f",
+      "id" : "37i9dQZF1DWWtqHeytOZ8f",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f000000035fc579eb8504922d4033606a",
+        "width" : null
+      } ],
+      "name" : "Lava Lamp",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNTA5MjE3NCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWWtqHeytOZ8f/tracks",
+        "total" : 200
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWWtqHeytOZ8f"
+    }, {
+      "collaborative" : false,
+      "description" : "The most calming classical music.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWVFeEut75IAL"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWVFeEut75IAL",
+      "id" : "37i9dQZF1DWVFeEut75IAL",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003e07b7f297e4f3eab77ee9ef4",
+        "width" : null
+      } ],
+      "name" : "Calming Classical",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDkyMTIwNiwwMDAwMDAyNTAwMDAwMTc1YWNjMjI4ZDcwMDAwMDE3MTBjNGM3YzAx",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWVFeEut75IAL/tracks",
+        "total" : 98
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWVFeEut75IAL"
+    }, {
+      "collaborative" : false,
+      "description" : "Kick back with a chill collection of iconic acoustics and new tracks with that classic feel. Cover: <a href=\"spotify:artist:7FIoB5PHdrMZVC3q2HE5MS\">George Harrison</a>",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX504r1DvyvxG"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX504r1DvyvxG",
+      "id" : "37i9dQZF1DX504r1DvyvxG",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f0000000336be53bd9b59a81cddd09505",
+        "width" : null
+      } ],
+      "name" : "Classic Acoustic",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNTA5MjE5MywwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX504r1DvyvxG/tracks",
+        "total" : 80
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX504r1DvyvxG"
+    }, {
+      "collaborative" : false,
+      "description" : "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX8OUvJF6ATAB"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX8OUvJF6ATAB",
+      "id" : "37i9dQZF1DX8OUvJF6ATAB",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f0000000362ba6556d0486fda920a8a92",
+        "width" : null
+      } ],
+      "name" : "Exospheres",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNTA5MjE4OCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX8OUvJF6ATAB/tracks",
+        "total" : 100
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX8OUvJF6ATAB"
+    }, {
+      "collaborative" : false,
+      "description" : "Elevate the moment and unwind with the lush sounds of these ethereal tracks.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWZ0OzPeadl0h"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWZ0OzPeadl0h",
+      "id" : "37i9dQZF1DWZ0OzPeadl0h",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f0000000339d3da59aa0628697ac35e9c",
+        "width" : null
+      } ],
+      "name" : "Lush + Ethereal",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwMTk1OTE3OSwwMDAwMDA2NjAwMDAwMTc0ZmMzNTM1ODcwMDAwMDE3MzM3MDkwNDE2",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWZ0OzPeadl0h/tracks",
+        "total" : 98
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWZ0OzPeadl0h"
+    }, {
+      "collaborative" : false,
+      "description" : "Rise & shine with the perfect blend of folk and acoustic.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DXdd3gw5QVjt9"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXdd3gw5QVjt9",
+      "id" : "37i9dQZF1DXdd3gw5QVjt9",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f0000000311f28482d6734f39e99f938f",
+        "width" : null
+      } ],
+      "name" : "Morning Acoustic",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDYzODkyMCwwMDAwMDA1NDAwMDAwMTc1OWJlZWNkZjAwMDAwMDE2Y2Y2ODdkNzFk",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXdd3gw5QVjt9/tracks",
+        "total" : 85
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DXdd3gw5QVjt9"
+    }, {
+      "collaborative" : false,
+      "description" : "Welcome, you belong here.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWVF0pvJ1YrL7"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWVF0pvJ1YrL7",
+      "id" : "37i9dQZF1DWVF0pvJ1YrL7",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f000000035cd0fc94278fe1862f99e372",
+        "width" : null
+      } ],
+      "name" : "Virtual Reality",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNTA5MjE5OCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWVF0pvJ1YrL7/tracks",
+        "total" : 97
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWVF0pvJ1YrL7"
+    }, {
+      "collaborative" : false,
+      "description" : "Rock to relax. Enjoy!",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX2UXfvEIZvDK"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX2UXfvEIZvDK",
+      "id" : "37i9dQZF1DX2UXfvEIZvDK",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f000000030159e090922c7c514c46816b",
+        "width" : null
+      } ],
+      "name" : "Modern Chill Rock",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNTA5MjIxOCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX2UXfvEIZvDK/tracks",
+        "total" : 50
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX2UXfvEIZvDK"
+    }, {
+      "collaborative" : false,
+      "description" : "Laid back electronic soundscapes rooted in experimental and ambient sensibilities.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWZ7mSWCFIT7v"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWZ7mSWCFIT7v",
+      "id" : "37i9dQZF1DWZ7mSWCFIT7v",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f000000037e666f83c9ede83da005eefa",
+        "width" : null
+      } ],
+      "name" : "Refractions",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNTAzMTU5OSwwMDAwMDA0NjAwMDAwMTc1YjM1NjljNjcwMDAwMDE3MGM0YzYzMjFl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWZ7mSWCFIT7v/tracks",
+        "total" : 116
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWZ7mSWCFIT7v"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/browse/categories/chill/playlists?offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 44
+  }
+}

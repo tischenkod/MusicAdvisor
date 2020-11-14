@@ -1,0 +1,408 @@
+{
+  "message" : "Editor's picks",
+  "playlists" : {
+    "href" : "https://api.spotify.com/v1/browse/featured-playlists?timestamp=2020-11-11T09%3A46%3A50&offset=0&limit=20",
+    "items" : [ {
+      "collaborative" : false,
+      "description" : "Get happy with today's dose of feel-good songs!",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX3rxVfibe1L0"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX3rxVfibe1L0",
+      "id" : "37i9dQZF1DX3rxVfibe1L0",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003aa93fe4e8c2d24fc62556cba",
+        "width" : null
+      } ],
+      "name" : "Mood Booster",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNTA4Nzk5NCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX3rxVfibe1L0/tracks",
+        "total" : 75
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX3rxVfibe1L0"
+    }, {
+      "collaborative" : false,
+      "description" : "No need to stress out. Stay relaxed with these easy, upbeat songs.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWT7XSlwvR1ar"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWT7XSlwvR1ar",
+      "id" : "37i9dQZF1DWT7XSlwvR1ar",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f000000031a9c145d6c6a8bbe4844e28c",
+        "width" : null
+      } ],
+      "name" : "Totally Stress Free",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNTA4Nzk3NSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWT7XSlwvR1ar/tracks",
+        "total" : 100
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWT7XSlwvR1ar"
+    }, {
+      "collaborative" : false,
+      "description" : "Embrace your secret favorites.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX4pUKG1kS0Ac"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX4pUKG1kS0Ac",
+      "id" : "37i9dQZF1DX4pUKG1kS0Ac",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f000000034a2afca194d4819c57201bc3",
+        "width" : null
+      } ],
+      "name" : "Guilty Pleasures",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNTA4Nzk3NCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX4pUKG1kS0Ac/tracks",
+        "total" : 151
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX4pUKG1kS0Ac"
+    }, {
+      "collaborative" : false,
+      "description" : "The best feel-good songs of the 80s.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWYAcBZSAVhlf"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWYAcBZSAVhlf",
+      "id" : "37i9dQZF1DWYAcBZSAVhlf",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f000000035611e6effd70cdc11d0c7076",
+        "width" : null
+      } ],
+      "name" : "Walking On Sunshine",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNTA4Nzk1NywwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWYAcBZSAVhlf/tracks",
+        "total" : 80
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWYAcBZSAVhlf"
+    }, {
+      "collaborative" : false,
+      "description" : "Slow down with some calming keys.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX1s9knjP51Oa"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX1s9knjP51Oa",
+      "id" : "37i9dQZF1DX1s9knjP51Oa",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003ec69f78942a99131ab104df5",
+        "width" : null
+      } ],
+      "name" : "Calm Vibes",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNTAxNDU4MCwwMDAwMDA2NDAwMDAwMTc1YjI1MmVlMzgwMDAwMDE2ZDE1NDk3NWNm",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX1s9knjP51Oa/tracks",
+        "total" : 248
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX1s9knjP51Oa"
+    }, {
+      "collaborative" : false,
+      "description" : "Rock legends and epic songs that continue to inspire generations.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U",
+      "id" : "37i9dQZF1DWXRqgorJj26U",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003519fc8771d90f496501a4da3",
+        "width" : null
+      } ],
+      "name" : "Rock Classics",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwMDc5MTM4OSwwMDAwMDA1NzAwMDAwMTc0YjY5YTI1OGMwMDAwMDE3M2ZlNjNkYjRm",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U/tracks",
+        "total" : 145
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWXRqgorJj26U"
+    }, {
+      "collaborative" : false,
+      "description" : "Timeless melodies from your favourite artists, both old and new.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWSXBu5naYCM9"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWSXBu5naYCM9",
+      "id" : "37i9dQZF1DWSXBu5naYCM9",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f000000037e7d4311695c33ff9f92cd53",
+        "width" : null
+      } ],
+      "name" : "A Perfect Day",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDY4ODQ1OSwwMDAwMDBhMTAwMDAwMTc1OWVlMmI2MTkwMDAwMDE3MTU5NTBiYjlj",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWSXBu5naYCM9/tracks",
+        "total" : 70
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWSXBu5naYCM9"
+    }, {
+      "collaborative" : false,
+      "description" : "The pulse of R&B music today.  Cover: H.E.R.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX4SBhb3fqCJd"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX4SBhb3fqCJd",
+      "id" : "37i9dQZF1DX4SBhb3fqCJd",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f0000000353181da95b72bf8f243dfc2a",
+        "width" : null
+      } ],
+      "name" : "Are & Be",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDYzODg2MCwwMDAwMDRlYzAwMDAwMTc1OWJlZGU0NjMwMDAwMDE3NTdhNWYxMjBj",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX4SBhb3fqCJd/tracks",
+        "total" : 40
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX4SBhb3fqCJd"
+    }, {
+      "collaborative" : false,
+      "description" : "Peak time bangers and emerging future hits. Cover: Tony Igy",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX7ZUug1ANKRP"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX7ZUug1ANKRP",
+      "id" : "37i9dQZF1DX7ZUug1ANKRP",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f000000035a70e6636b474fcd082d6e1b",
+        "width" : null
+      } ],
+      "name" : "Main Stage",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDUxMzg3MSwwMDAwMDEyZjAwMDAwMTc1OTQ3YWI2MjQwMDAwMDE3NTkzZjdhOWU5",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX7ZUug1ANKRP/tracks",
+        "total" : 50
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX7ZUug1ANKRP"
+    }, {
+      "collaborative" : false,
+      "description" : "Get in the zone with these current jams!",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWU13kKnk03AP"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWU13kKnk03AP",
+      "id" : "37i9dQZF1DWU13kKnk03AP",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003bf4545e8d7e6b7e377980995",
+        "width" : null
+      } ],
+      "name" : "Daily Lift",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNTA4Nzk3MCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWU13kKnk03AP/tracks",
+        "total" : 100
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWU13kKnk03AP"
+    }, {
+      "collaborative" : false,
+      "description" : "Feel good with this positively timeless playlist!",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX9XIFQuFvzM4"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX9XIFQuFvzM4",
+      "id" : "37i9dQZF1DX9XIFQuFvzM4",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f0000000313a02d059c0479e65a850267",
+        "width" : null
+      } ],
+      "name" : "Feelin' Good",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNTA4Nzk3NiwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX9XIFQuFvzM4/tracks",
+        "total" : 100
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX9XIFQuFvzM4"
+    }, {
+      "collaborative" : false,
+      "description" : "These songs rocked the 90s. Cover: Nirvana",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX1rVvRgjX59F"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX1rVvRgjX59F",
+      "id" : "37i9dQZF1DX1rVvRgjX59F",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003b6e605ef428ddef4b7ce24aa",
+        "width" : null
+      } ],
+      "name" : "90s Rock Anthems",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDU3NjM4MiwwMDAwMDAxZTAwMDAwMTc1OTgzNDhmYjgwMDAwMDE3MGM0OTc1ZmRh",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX1rVvRgjX59F/tracks",
+        "total" : 150
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX1rVvRgjX59F"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 12
+  }
+}
